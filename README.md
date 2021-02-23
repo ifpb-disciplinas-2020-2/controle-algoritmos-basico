@@ -44,7 +44,9 @@ Lembrem-se que após a criação do algotimos, o arquivo `.c` precisa ser compil
 ```
 
 Seguimos os passos:
+
 *1. compilar o código-fonte (gerar um arquivo executável)*
+
 *2. executar o executável (gerado no passo 1)*
 
 Passo 1: `gcc exemplo-01.c -o exemplo-01`.
