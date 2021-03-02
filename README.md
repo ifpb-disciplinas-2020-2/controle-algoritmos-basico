@@ -21,10 +21,28 @@ O [repl.it](https://repl.it/) fornece um conjunto de funcionalidades para codifi
 
 # Atividade prática
 
-Na pasta `atividades` temos a nossa segunda lista de exercício. Desenvolva, para cada item, um algoritmo correspondente.
+Na pasta [atividades](/atividades) temos a nossa segunda lista de exercício. Desenvolva, para cada item, um algoritmo correspondente.
 Os arquivos devem ser compiláveis (sem problemas para compilar) e atenderem ao solicitado em cada questão.
 
-Na pasta [atividades-respostas](/atividades-respostas) temos quatro respostas da nossa segunda lista de exercício. As questões a serem respondidas foram escolhidasd pelos alunos em nossa turma no Classroom.
+Na pasta [atividades-respostas](/atividades-respostas) temos quatro respostas da nossa segunda lista de exercício. As questões a serem respondidas foram escolhidasd pelos alunos em nossa turma no Classroom. Para exemplificar, observe o código desenvolvido na Linguagem C para a questão `e02-4`.
+
+```
+#include <stdio.h>
+int main(){
+    // int numero, sucessor,antecessor;
+    //ler um numero
+    printf("Digite um numero: \n");
+    scanf("%i", &numero);
+    //calcular o sucessor
+    sucessor = numero + 1;
+    //calcular o antecessor
+    antecessor = numero - 1;
+    printf("O sucessor ao número %i é: %i \n", numero, sucessor);
+    printf("O antecessor ao número %i é: %i \n", numero, antecessor);
+    return 0;
+}
+```
+
 
 
 ## Metodologia
