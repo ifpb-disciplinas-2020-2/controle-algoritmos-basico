@@ -24,6 +24,9 @@ O [repl.it](https://repl.it/) fornece um conjunto de funcionalidades para codifi
 Na pasta `atividades` temos a nossa segunda lista de exercício. Desenvolva, para cada item, um algoritmo correspondente.
 Os arquivos devem ser compiláveis (sem problemas para compilar) e atenderem ao solicitado em cada questão.
 
+Na pasta [atividades-respostas](/atividades-respostas) temos quatro respostas da nossa segunda lista de exercício. As questões a serem respondidas foram escolhidasd pelos alunos em nossa turma no Classroom.
+
+
 ## Metodologia
 
 Esta atividade prática está planejada em um conjunto de algoritmos e para ser desenvolvida individualmente ou coletivamente. 

@@ -15,7 +15,7 @@ Para leitura ou exibição dos dados, usamos as seguintes formatações:
 
 */
 #include <stdio.h> 
-int main(void){
+int main(){
     // Imprimir dados de saída        
     printf("Estou no curso de Engenharia de Controle!!! \n"); 
     // printf("Meu nome é Ricardo. \n");
